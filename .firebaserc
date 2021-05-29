@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "mystore-rh",
+    "mystore-rh": "mystore-rh"
+  }
+}
